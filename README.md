@@ -11,3 +11,6 @@ Meu nome é Clara
  clara.santos.oliveira@escola.pr.gov.br
  
  clara.santos.oliveira@escola.pr.gov.br
+
+
+![]https://tenor.com/pt-BR/view/dance-gif-1401901097955364941
