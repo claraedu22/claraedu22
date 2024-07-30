@@ -2,7 +2,7 @@
 
 Meu nome é Clara 
 
- - Estou estudando no Alura
+ - Estou estudando no [Alura](https://www.alura.com)
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,6 @@ Meu nome é Clara
  
  clara.santos.oliveira@escola.pr.gov.br
 
+ ![](https://media.tenor.com/E3SNnvncEE0AAAAM/dance.gif)
 
-![]https://tenor.com/pt-BR/view/dance-gif-1401901097955364941
+
